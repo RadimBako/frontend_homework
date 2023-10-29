@@ -1,0 +1,17 @@
+{
+  "product": "uun_ShoppingList_app",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "uun_ShoppingList_app-hi": {},
+  "uun_ShoppingList_app-server": {}
+}
